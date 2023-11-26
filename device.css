@@ -1,0 +1,146 @@
+*{
+    
+    text-decoration: none;
+}
+.contacter{
+    color: crimson;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 30px;
+}
+.max-width .navbar .menu .liste{
+    list-style: none;
+}
+.navbar{
+    background-color: white;
+}
+.max-width .navbar{
+    display: flex;
+}
+ .max-width li a{
+
+    color: black;
+    font-weight: 50px;
+    transition: color 2s;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+    zoom: 1.5;
+
+}
+.navbar .menu li{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.navbar .logo .text a{
+     color: crimson;
+     font-family: cursive;
+     font-size: 30px;
+     margin-left: 10px;
+
+}
+/*****************************home1*****************/
+.home1 .max-width .slide img{
+    height:500px;
+    width: 1200px;
+    width: 100%;
+    object-fit: cover;
+
+}
+.home7{
+    background-color: rgb(218, 212, 212);
+}
+.home7 .max-width{
+    display: flex;
+}
+.home7 .colon-left{
+    text-align: center;
+}
+.home7 .max-width .colon-right{
+    margin-left: 600px;
+}
+.max-width .colon-right p{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+.home7 .max-width .colon-left{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+/***************home8*********************/
+.home8 .max-width .text h3{
+    text-align: center;
+}
+.home8 .max-width .text p{
+    text-align: center;
+}
+/*************home9**********************/
+.home9 .max-width{
+    display: flex;
+    margin-left: 300px;
+}
+ .home9 .max-width .lui{
+    height: 100px;
+}
+.home9 .max-width img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+.home9 .equipe{
+    text-align: center;
+}
+/*****************home10******/
+.home10{
+    background-color: black;
+}
+.home10 p{
+    color: white;
+}
+.home10 .max-width{
+    display: flex;
+    margin-left: 20px;
+
+}
+.max-width h5{
+    color: white;
+    margin-left: 70px;
+}
+.home10 input{
+    width: 900px;
+    border-radius: 5px;
+    height: 20px;
+    margin-left: 10px;
+}
+.home10 a{
+    color: white;
+    background-color: crimson;
+    padding: 4px 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.home10 .max-width p{
+    text-align: center;
+}
+.home10 .contact{
+    display: flex;
+    margin-left: 90px;
+}
+.home10 .contact p{
+    margin-left: 80px;
+}
+.max-width .form{
+    margin-left: 60px;
+}
+.max-width .form h5{
+    margin-left:50px ;
+}
+.home10 .pos{
+    padding-top: 10px;
+    padding-left: 10px;
+}

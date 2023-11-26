@@ -1,0 +1,243 @@
+*{
+    
+    text-decoration: none;
+}
+.max-width .navbar .menu .liste{
+    list-style: none;
+}
+.navbar{
+    background-color: white;
+}
+.contacter{
+    color: crimson;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 30px;
+}
+.max-width .navbar{
+    display: flex;
+}
+ .max-width li a{
+
+    color: black;
+    font-weight: 50px;
+    transition: color 2s;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+    zoom: 1.5;
+
+}
+.navbar .menu li{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.navbar .logo .text a{
+     color: crimson;
+     font-family:sans-serif;
+     font-size: 30px;
+     margin-left: 10px;
+
+}
+/*****************************home1*****************/
+.home1 .max-width .slide img{
+    height:500px;
+    width: 1200px;
+    width: 100%;
+    object-fit: cover;
+
+}
+/**********************home2***********************/
+.max-width .titre h1{
+    text-align: center;
+    color: crimson;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.max-width .descript{
+    text-align: center;
+}
+/*********************home3********************/
+.home3 .max-width{
+    display: flex;
+}
+.home3 .max-width .colon-left img{ 
+    height:400px;
+    width: 600px;
+    object-fit: cover;
+}
+.max-width .colon-right li{
+    margin-top: 5px;
+}
+.max-width .colon-right{
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+.max-width .title{
+    margin-left: 50px;
+    color: rgb(97, 94, 94);
+    margin-top: 20px;
+}
+/******************home4******************************/
+.home4 .im2{
+    margin-left: 100px;
+}
+.home4 .ald li{
+    margin-top: 5px;
+}
+.home4 .ald{
+    margin-top: 70px;
+}
+.home4 .max-width{
+    display: flex;
+}
+.max-width .title1{
+    color: rgb(97, 94, 94);
+    margin-left: 20px;
+}
+.home4 .max-width .colon-right img{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    padding-left: 100px;
+    margin-top: 0px;
+    
+}
+.home4 .max-width .colon-left{
+    margin-left: 20px;
+    text-align: justify;
+    margin-top: 50px;
+}
+/********************home5********************/
+.home5 .max-width{
+    display: flex;
+}
+.home5 .max-width .colon-left img{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
+.home5 .liste li{
+    margin-top: 5px;
+}
+.home5 .max-width .colon-right .liste{
+    margin-left: 30px;
+    margin-top: 70px;
+
+}
+/***********************home6***********************/
+.home6 .max-width .photo img{
+    width: 1000px;
+    height: auto;
+    object-fit: cover;
+}
+.home6 .note span a{
+    color: crimson; 
+    transition: color 1s;
+}
+.home6 .note span a:hover{
+    color: blue;
+    zoom: 1.5;
+}
+.home6 .note p{
+    margin-left: 50px;
+}
+/*****************home7****************/
+.home7{
+    background-color: rgb(218, 212, 212);
+}
+.home7 .max-width{
+    display: flex;
+}
+.home7 .colon-left{
+    text-align: center;
+}
+.home7 .max-width .colon-right{
+    margin-left: 600px;
+}
+.max-width .colon-right p{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+.home7 .max-width .colon-left{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+/***************home8*********************/
+.home8 .max-width .text h3{
+    text-align: center;
+}
+.home8 .max-width .text p{
+    text-align: center;
+}
+/*************home9**********************/
+.home9 .max-width{
+    display: flex;
+    margin-left: 300px;
+}
+ .home9 .max-width .lui{
+    height: 100px;
+}
+.home9 .max-width img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+.home9 .equipe{
+    text-align: center;
+}
+/*****************home10******/
+.home10{
+    background-color: black;
+}
+.home10 p{
+    color: white;
+}
+.home10 .max-width{
+    display: flex;
+    margin-left: 20px;
+
+}
+.max-width h5{
+    color: white;
+    margin-left: 70px;
+}
+.home10 input{
+    width: 900px;
+    border-radius: 5px;
+    height: 20px;
+    margin-left: 10px;
+}
+.home10 a{
+    color: white;
+    background-color: crimson;
+    padding: 4px 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.home10 .max-width p{
+    text-align: center;
+}
+.home10 .contact{
+    display: flex;
+    margin-left: 90px;
+}
+.home10 .contact p{
+    margin-left: 80px;
+}
+.max-width .form{
+    margin-left: 60px;
+}
+.max-width .form h5{
+    margin-left:50px ;
+}
+.home10 .pos{
+    padding-top: 10px;
+    padding-left: 10px;
+}

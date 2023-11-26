@@ -1,0 +1,242 @@
+.home .bar{
+    background-color: black;
+    color: white;
+}
+.home .bar{
+    display: flex;
+}
+.bar .menu input{
+    background-color: crimson;
+    color: white;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+.home .bar .logo{
+    margin-left: 80px;
+}
+.bar .logo span{
+    color: crimson;
+    font-size: 20px;
+} 
+/******************************/
+.home2{
+    background: url('sSlider_1920x922.jpg');
+    width:auto;
+    height:600px;
+    object-fit: cover;
+}
+.home2 .h2{
+    display: flex;
+}
+.h2 .text{
+    color:rgb(202, 197, 197);
+    padding: 150px 30px;
+}
+.text span{
+    color: white;
+    font-size: 20px;
+    
+}
+.h2 .menu a{
+    color: white;
+    text-decoration: none;
+}
+.home2 .menu li{
+    margin-top: 10px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.home2 .menu .l1{
+    margin-left: 150px;
+    margin-top: 150px;
+    text-align: center;
+}
+/***********************home3**********************************/
+.home3{
+    background-color: black;
+}
+.home3 .coul{
+    color: white;
+    padding: 40px 40px;
+}
+.home3 .max-width{
+    display: flex;
+    margin-left: 90px;
+}
+.home3 .max-width img{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.max-width{
+    color: white;
+}
+.part1 a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.part2 a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.part2 p{
+    margin-left: 15px;
+    text-align: center;
+    color: rgb(206, 197, 197);
+}
+.part1 p{
+    margin-left: 15px;
+    text-align: center;
+ color: rgb(206, 197, 197);
+}
+.part2 h4{
+    text-align: center;
+}
+.part3 a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin-right: 100px;
+}
+.part3 p{
+    margin-left: 15px;
+    text-align: center;
+    color: rgb(206, 197, 197);
+
+}
+/******************************************home4***/
+.home4{
+    background-color: black;
+}
+ .max-width{
+    display: flex;
+    margin-left: 90px;
+}
+
+.home4 .max-width img{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.home4 .max-width p a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin-right: 100px;
+}
+/********home5***/
+.home5{
+    background-color: rgb(46, 45, 45);
+}
+.home5 .max-width img{
+    width: 400px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 90px;
+    border-radius: 10px;
+    margin-bottom: 90px;
+}
+.home5 .max-width .text{
+    color: white;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.home5 .max-width .text li{
+    color: gray;
+} 
+.home5 .max-width p a{
+    background-color:crimson;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: color 1s;
+}
+.home5 .max-width p a:hover{
+    color: white;
+}
+/***********home6***************/
+.home6{
+    background-color: rgb(94, 91, 91);
+}
+.home6 .max-width .text .sub{
+    border-radius: 10px;
+    margin-left: 20px;
+    color: white;
+}
+.home6 .max-width .text input{
+    border: none;
+    background-color: rgb(66, 65, 65);
+    border-radius: 10px;
+}
+.home6 .max-width .im{
+    margin-left: 100px;
+}
+.home6 .max-width img{
+    width: 400px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 10px;
+    margin-bottom: 90px;
+}
+.home6 .max-width .text{
+    margin-top: 90px;
+    font-size: 20px;
+}
+/********home7****/
+.home7{
+    background-color: black;
+}
+.home7 .max-width .img1{
+    width: 400px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 10px;
+    margin-bottom: 90px;
+}
+.home7 .max-width .img2{
+    width: 200px;
+    margin: 90px 50px;
+    height: 200px;
+}
+.home7 .dema{
+    color: white;
+    font-size: 20px;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.home7 p{
+    color: white;
+    margin-left: 170px;
+    font-size: 20px;
+}
+.home7 p input{
+    border-radius: 10px;
+    background-color: rgb(44, 43, 43);
+    width: 200px;
+}
+.home7 .envoi{
+    background-color: crimson;
+    margin-left: 600px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+

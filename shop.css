@@ -1,0 +1,80 @@
+*{
+    
+    text-decoration: none;
+}
+.contacter{
+    color: crimson;
+    margin-top: 35px;
+    margin-left: 90px;
+    font-size: 32px;
+}
+.max-width .navbar .menu .liste{
+    list-style: none;
+}
+.navbar{
+    background-color: white;
+}
+.max-width .navbar{
+    display: flex;
+}
+ .max-width li a{
+
+    color: black;
+    font-weight: 50px;
+    transition: color 2s;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+    zoom: 1.5;
+
+}
+.navbar .menu li{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.navbar .logo .text a{
+     color: crimson;
+     font-family:cursive;
+     font-size: 30px;
+     margin-left: 10px;
+
+}
+/*******************home1************/
+.home img{
+    width: 100%;
+}
+/**************hom2****/
+.home2 .max-width{
+    display: flex;
+    margin-left: 200px;
+}
+.home2 .max-width a{
+    margin-left: 50px;
+    background-color: white;
+  
+}
+.home2 .max-width a img{
+    width: 200px;
+}
+.home2 .max-width a img:hover{
+    zoom: 1.5;
+}
+.home2 .max-width p{
+    text-align: center;
+}
+/*******home3******/
+.home3 .max-width{
+    display: flex;
+    margin-left: 190px;
+}
+.home3 .max-width h4{
+    margin-left: 40px;
+}
+.home3 .max-width p {
+    text-align: center;
+}
+.home3 .max-width p a{
+    color: gray;
+}
